@@ -1,3 +1,5 @@
+Demo vid: https://youtu.be/7ZgAJ9MDGGw
+
 The Fantasy Premier League is the worlds largest fantasy sports league by player volume, one of the main challenges that people face is that outside of the official FPL data analysis, there is no other way players can make a team on their own by analysing a wide range of player data. That is why i have embarked on creating sc-out, which is a triple entendre actually. 
 
 Sc-out fetches live data from the official FPL API and uses a proprietary scoring algorithm to rank every player by value, form, xg involvement, etc. Player cards can be expanded to reveal analytsics powered by Claude (the de-facto ALU agent atp).
